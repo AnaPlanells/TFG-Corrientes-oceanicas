@@ -19,8 +19,3 @@ El objetivo del trabajo es **explorar desde cero las relaciones fundamentales en
 - `desnivel.ipynb`: perturbación por topografía.
 - `disipacion.ipynb`, `disipacionvariandoa.ipynb`, `disipacionvariandoalpha.ipynb`: análisis de disipación energética.
 - `ecuaciondiferencial.ipynb`, `solucionecuaciondiferencial.ipynb`: modelo basado en analogías con física de partículas.
-
-## Documento
-
-Puedes consultar la memoria completa del TFG aquí:  
- [TFG - Corrientes oceánicas (PDF)](https://github.com/AnaPlanells/TFG-Corrientes-oceanicas.git)
