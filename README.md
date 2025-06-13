@@ -1,6 +1,6 @@
 # TFG – Simulación de corrientes oceánicas y disipación energética
 
-Este repositorio contiene el código y materiales del Trabajo de Fin de Grado **"Relaciones entre variables en un sistema oceánico retroalimentado: simulaciones y simetrías"**, realizado por Ana Planells Picó en la UAB (2025).
+Este repositorio contiene el código y materiales del Trabajo de Fin de Grado **"Relaciones entre variables en un sistema oceánico retroalimentado: simulaciones y simetrías"**.
 
 ## Resumen
 
